@@ -1,0 +1,21 @@
+body {
+    background-color: #C190E0;
+}
+
+main {
+    background-color: #E8B7DA;
+    text-align: left;
+}
+
+nav {
+    background-color: #DEEEED;
+}
+
+#menu li {
+    display: inline;
+    font-size: 50px;
+
+}
+#menu {
+    word-spacing: 100px;
+}
